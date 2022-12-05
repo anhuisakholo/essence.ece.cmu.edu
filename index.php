@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 <head>
@@ -21,7 +20,7 @@
     <meta name="twitter:title" content="RTP Live : Info Bocoran Slot Gacor Via RTP Live Terbaik">
     <meta name="twitter:description" content="Salah satu situs slot gacor online dengan menyediakan beragam informasi tentang slot rtp live paling terbaik melalui platform slot online Indonesia. Ratusan provider slot gacor terpopuler bisa dipilih salah satu untuk melakukan cuan terbesar dengan uang asli.">
     <meta name="twitter:image:src" content="https://i.ibb.co/ry3RwCx/banner-slot-gacor.jpg">
-    <meta name="google-site-verification" content="iU1BTvdHal-i1RNL1furo3YP1dCHm3lMT6QUzmbKKD4" />
+    <meta name="google-site-verification" content="v8-_WhBGPxhVOQXL7xYvKHRB5Rg-L3xIBvln9SS-YFo" />
     <meta name="og:title" content="RTP Live : Info Bocoran Slot Gacor Via RTP Live Terbaik">
     <meta name="og:description" content="Salah satu situs slot gacor online dengan menyediakan beragam informasi tentang slot rtp live paling terbaik melalui platform slot online Indonesia. Ratusan provider slot gacor terpopuler bisa dipilih salah satu untuk melakukan cuan terbesar dengan uang asli.">
     <meta name="og:image" content="https://i.ibb.co/ry3RwCx/banner-slot-gacor.jpg">
